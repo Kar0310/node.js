@@ -74,3 +74,6 @@ const path = require("path");
 //     console.log("Folder is delated");
 // })
 
+// const x = require("nodetuynfunction") 
+
+// x.tuynFunction([5,8])

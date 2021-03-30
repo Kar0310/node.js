@@ -4,7 +4,7 @@
   "description": "xzbzal",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node pizza.js",
     "devstart": "nodemon app.js"
   },
   "keywords": [

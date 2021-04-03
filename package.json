@@ -19,6 +19,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "nodetuynfunction": "^1.0.0",
-    "underscore": "^1.12.1"
+    "underscore": "^1.12.1",
+    "uuid": "^8.3.2"
   }
 }
